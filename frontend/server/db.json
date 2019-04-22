@@ -1,0 +1,86 @@
+{
+  "watchlist": [
+    {
+      "vote_count": 1063,
+      "id": 166428,
+      "video": false,
+      "vote_average": 7.8,
+      "title": "How to Train Your Dragon: The Hidden World",
+      "popularity": 378.308,
+      "poster_path": "https://image.tmdb.org/t/p/w500/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg",
+      "original_language": "en",
+      "original_title": "How to Train Your Dragon: The Hidden World",
+      "genre_ids": [
+        16,
+        10751,
+        12
+      ],
+      "backdrop_path": "/h3KN24PrOheHVYs9ypuOIdFBEpX.jpg",
+      "adult": false,
+      "overview": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
+      "release_date": "2019-01-03"
+    },
+    {
+      "vote_count": 2699,
+      "id": 324857,
+      "video": false,
+      "vote_average": 8.5,
+      "title": "Spider-Man: Into the Spider-Verse",
+      "popularity": 159.749,
+      "poster_path": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "original_language": "en",
+      "original_title": "Spider-Man: Into the Spider-Verse",
+      "genre_ids": [
+        28,
+        12,
+        16,
+        878,
+        35
+      ],
+      "backdrop_path": "/uUiId6cG32JSRI6RyBQSvQtLjz2.jpg",
+      "adult": false,
+      "overview": "Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson \"Kingpin\" Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.",
+      "release_date": "2018-12-07"
+    },
+    {
+      "vote_count": 3804,
+      "id": 372058,
+      "video": false,
+      "vote_average": 8.6,
+      "title": "Your Name.",
+      "popularity": 20.316,
+      "poster_path": "https://image.tmdb.org/t/p/w500/xq1Ugd62d23K2knRUx6xxuALTZB.jpg",
+      "original_language": "ja",
+      "original_title": "君の名は。",
+      "genre_ids": [
+        10749,
+        16,
+        18
+      ],
+      "backdrop_path": "/7OMAfDJikBxItZBIug0NJig5DHD.jpg",
+      "adult": false,
+      "overview": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
+      "release_date": "2016-08-26"
+    },
+    {
+      "vote_count": 12168,
+      "id": 299536,
+      "video": false,
+      "vote_average": 8.3,
+      "title": "Avengers: Infinity War",
+      "popularity": 146.916,
+      "poster_path": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "original_language": "en",
+      "original_title": "Avengers: Infinity War",
+      "genre_ids": [
+        12,
+        28,
+        14
+      ],
+      "backdrop_path": "/bOGkgRGdhrBYJSLpXaxhXVstddV.jpg",
+      "adult": false,
+      "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+      "release_date": "2018-04-25"
+    }
+  ]
+}
